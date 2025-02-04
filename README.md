@@ -1,2 +1,0 @@
-# allesmellel
-Bot de discord
