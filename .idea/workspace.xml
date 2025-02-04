@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0f2d690-e031-4c12-95d0-b059d8dd3bc2" name="Changes" comment="nuevo procfile" />
+    <list default="true" id="b0f2d690-e031-4c12-95d0-b059d8dd3bc2" name="Changes" comment="cookies de chrome test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738688251389</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="cookies de chrome test">
+      <option name="closed" value="true" />
+      <created>1738688726446</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738688726446</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +165,7 @@
     <MESSAGE value="nixpacks" />
     <MESSAGE value="eliminar nixpacks y agregar procfile" />
     <MESSAGE value="nuevo procfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="nuevo procfile" />
+    <MESSAGE value="cookies de chrome test" />
+    <option name="LAST_COMMIT_MESSAGE" value="cookies de chrome test" />
   </component>
 </project>

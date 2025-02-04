@@ -11,7 +11,7 @@ async def fetch_audio_data(url):
         }],
         'quiet': True,
         'default_search': 'auto',
-        'cookies-from-browser': 'chrome',  # Usa cookies desde Chrome automáticamente
+        'cookies-from-browser': 'firefox:xhn2zoyv.default',  # Usa cookies desde Chrome automáticamente
     }
     loop = asyncio.get_event_loop()
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
